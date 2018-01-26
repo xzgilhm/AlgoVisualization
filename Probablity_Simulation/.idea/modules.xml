@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Money-Simulate/Money-Simulate.iml" filepath="$PROJECT_DIR$/Money-Simulate/Money-Simulate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PI-Simulate/PI-Simulate.iml" filepath="$PROJECT_DIR$/PI-Simulate/PI-Simulate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Winning-Probablity/Winning-Probablity.iml" filepath="$PROJECT_DIR$/Winning-Probablity/Winning-Probablity.iml" />
+    </modules>
+  </component>
+</project>
