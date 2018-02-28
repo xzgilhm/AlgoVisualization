@@ -28,6 +28,15 @@ public class AlgoVisualizer {
         setData(0, -1);
 
         //TODO: 插入排序
+        for(int i = 0; i<data.N(); i++){
+            setData(i,i);
+            for(int j=i; j>0 && data.get(j-1) > data.get(j); j--){
+
+                data.swap(j,j-1);
+                setData(i+1,j-1);
+            }
+            setData(i,-1);
+        }
         setData(data.N(), -1);
 
     }
